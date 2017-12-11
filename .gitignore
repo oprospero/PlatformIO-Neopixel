@@ -34,3 +34,4 @@ platformio.ini
 *.exe
 *.out
 *.app
+.piolibdeps
